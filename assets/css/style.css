@@ -99,7 +99,7 @@
     min-height: 100vh;
     padding: 150px 0 150px;
     color: #ffffff;
-    background-image: url(/assets/img/img-header.png) ; 
+    background-image: url(assets/img/img-header.png) ; 
     background-color: #2d3651;
     background-position: 50% 50%;
     background-size: cover;
@@ -298,31 +298,31 @@
   }
   
   .image-first{
-    background-image:url(/assets/img/img-html.png);
+    background-image:url(assets/img/img-html.png);
   }
   .image-second{
-    background-image:url(/assets/img/img-css.png);
+    background-image:url(assets/img/img-css.png);
   }
   .image-third{
-    background-image:url(/assets/img/img-markup.png);
+    background-image:url(assets/img/img-markup.png);
   }
   .image-fourth{
-    background-image:url(/assets/img/img-webdesign.png);
+    background-image:url(assets/img/img-webdesign.png);
   }
   .image-fifth{
-    background-image:url(/assets/img/img-qa.png);
+    background-image:url(assets/img/img-qa.png);
   }
   .image-sixth{
-    background-image:url(/assets/img/img-codding.png);
+    background-image:url(assets/img/img-codding.png);
   }
   .image-seventh{
-    background-image:url(/assets/img/img-adaptability.png);
+    background-image:url(assets/img/img-adaptability.png);
   }
   .image-eighth{
-    background-image:url(/assets/img/img-php.png);
+    background-image:url(assets/img/img-php.png);
   }
   .image-ninth{
-    background-image:url(/assets/img/img-seo.png);
+    background-image:url(assets/img/img-seo.png);
   }
   
   
