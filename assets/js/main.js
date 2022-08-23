@@ -1,8 +1,8 @@
 $(document).ready(() => {
 
-  $('.header__navbar__button').on('click', function () {
-    $(this).toggleClass('header__navbar__button--active');
-    $('.header__navbar__list')
+  $('.header-navbar__button').on('click', function () {
+    $(this).toggleClass('header-navbar__button--active');
+    $('.header-navbar__list')
       .stop(true, true)
       .slideToggle(500);
   });
