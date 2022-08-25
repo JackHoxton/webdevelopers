@@ -285,7 +285,7 @@
     background-color: #2d3651;
   }
   
-  .grid__image{
+  .grid-item__image{
     position: absolute;
     top: 0;
     right: 0;
@@ -330,7 +330,7 @@
     opacity: 0.95 !important;
   }
   
-  .grid-item:hover .grid__image {
+  .grid-item:hover .grid-item__image {
     transform: scale(1.1);
   }
   
